@@ -1,3 +1,3 @@
-module cache
+module main
 
 go 1.19
